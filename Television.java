@@ -1,7 +1,7 @@
 
 /**
 * File Name: Television.java
-* Purpose: Emulates the functions of a Television
+* Purpose: Models the functions of a Television
 * Date: 2020-03-01
 * Last modified: 2020-03-01
 * Author: Josen Pottackal
